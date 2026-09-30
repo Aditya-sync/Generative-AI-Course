@@ -54,10 +54,12 @@ flowchart TD
     end
     class P5,E1,E2,E3 infra;
 
-    P1 --> P2 --> P3 --> P4 --> P5
----
+P1 --> P2 --> P3 --> P4 --> P5
+```
 # Repository Anatomy
+```text
 Machine Learning-II/
+
 │
 ├── 01_data_science_foundations/
 │   ├── numpy/
