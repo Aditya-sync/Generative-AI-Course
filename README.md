@@ -54,11 +54,6 @@ flowchart TD
     end
     class P5,E1,E2,E3 infra;
 
-P1 --> P2 --> P3 --> P4 --> P5
-'''
-# Repository Anatomy
-
-```text
 Machine Learning-II/
 │
 ├── 01_data_science_foundations/
@@ -129,12 +124,9 @@ Machine Learning-II/
 │   ├── raw/                                           # Unmodified raw datasets
 │   └── processed/                                     # Cleaned, transformed matrices and tensors
 │
-├── .gitignore                                         # Large weights, venv aur cache ko ignore karne ke liye
-├── requirements.txt                                   # Reproducible dependencies specification
+├── .gitignore                                         # Prevents pushing large weights, venv, and checkpoints
+├── requirements.txt                                   # Reproducible environment specifications
 └── README.md
-'''
-#📌 Section Details
-```
 01. Data Science Foundations
 NumPy: Vectorized calculations, matrix multiplication, array broadcasting, axis-based manipulations bina slow loops ke.
 
