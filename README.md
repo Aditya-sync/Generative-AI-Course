@@ -1,6 +1,6 @@
 # 🚀 AI Engineer Mastery: From First Principles to Production
 
-An exhaustive, implementation-first repository tracking the journey from linear algebra and classical machine learning algorithms to deep neural networks, transformer architectures, LLM systems, and high-throughput production infrastructure.
+Ek comprehensive, implementation-first repository jo linear algebra aur classical machine learning se lekar deep neural networks, transformer architectures, LLM systems, aur production infrastructure tak pura track cover karti hai.
 
 ---
 
