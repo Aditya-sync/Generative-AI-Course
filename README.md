@@ -54,6 +54,8 @@ flowchart TD
     end
     class P5,E1,E2,E3 infra;
 ```
+```text
+
 Machine Learning-II/
 │
 ├── 01_data_science_foundations/
@@ -127,6 +129,7 @@ Machine Learning-II/
 ├── .gitignore                                         # Prevents pushing large weights, venv, and checkpoints
 ├── requirements.txt                                   # Reproducible environment specifications
 └── README.md
+```
 01. Data Science Foundations
 NumPy: Vectorized calculations, matrix multiplication, array broadcasting, axis-based manipulations bina slow loops ke.
 
