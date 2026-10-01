@@ -129,7 +129,7 @@ Machine Learning-II/
 ├── .gitignore                                         # Prevents pushing large weights, venv, and checkpoints
 ├── requirements.txt                                   # Reproducible environment specifications
 └── README.md
-```info
+
 01. Data Science Foundations
 NumPy: Vectorized calculations, matrix multiplication, array broadcasting, axis-based manipulations bina slow loops ke.
 
